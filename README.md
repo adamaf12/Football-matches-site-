@@ -1,10 +1,7 @@
-<html lang="ar">
- <head></head>
- <body>
-   html&gt; 
+
   <h1> Hello </h1> 
   <div>
-   <br> have fun. :) 
+   <br> ha
   </div> charset="UTF-8"&gt; 
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
   <title>مشاهدة المباريات بث مباشر</title> 
