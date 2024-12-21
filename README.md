@@ -4,7 +4,6 @@
    html&gt; 
   <h1> Hello </h1> 
   <div>
-    This is a html example from Dcoder, 
    <br> have fun. :) 
   </div> charset="UTF-8"&gt; 
   <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
