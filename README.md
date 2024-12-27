@@ -51,7 +51,6 @@
     <script src="script.js"></script>
 </body>
 </html>
-/* الأساسيات */
 * {
     margin: 0;
     padding: 0;
